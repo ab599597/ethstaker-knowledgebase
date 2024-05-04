@@ -130,7 +130,7 @@ It's not possible to run Linux on the new ARM architecture this uses. It is more
 
 **Performance:** You can buy as much as you can afford.
 
-If you live somewhere that is prone to natural disaster or has an unstable power grid or internet connection but still want to solo stake, this is a good option. You can also consider using a DVT protocol.
+If you live somewhere that is prone to natural disaster or has an unstable power grid or internet connection but still want to solo stake, this is a good option. You can also consider using a [DVT protocol](https://obol.tech/).
 
 If you do have stable power and internet, running your own hardware will be a cheaper/more profitable solution long term. You need to evaluate the pros/cons of this for your own situation. Remember that if one of the VPS providers goes down, it will mean all of the people using that VPS service to host will also go down, and the inactivity penalties will be much larger than if you have uncorrelated downtime yourself.
 
